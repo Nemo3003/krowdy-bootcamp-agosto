@@ -1,0 +1,7 @@
+     In GitHub:
+     - $('.progress-pjax-loader')
+      - $('[itemprop]')
+      - $('[itemprop=name]')
+      - $('[itemprop=name]').textContent
+      - $('[itemprop=name] >a').textContent
+      - $('[itemprop=name] >a, document.body').textContent
