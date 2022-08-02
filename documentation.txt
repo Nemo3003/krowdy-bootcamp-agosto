@@ -1,5 +1,6 @@
+     1st Module: Scrapping
      In GitHub:
-     - $('.progress-pjax-loader')
+      - $('.progress-pjax-loader')
       - $('[itemprop]')
       - $('[itemprop=name]')
       - $('[itemprop=name]').textContent
