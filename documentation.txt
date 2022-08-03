@@ -6,3 +6,5 @@
       - $('[itemprop=name]').textContent
       - $('[itemprop=name] >a').textContent
       - $('[itemprop=name] >a, document.body').textContent
+      - $$('[class=BorderGrid-cell]> h2')[2].textContent.trim()
+    
