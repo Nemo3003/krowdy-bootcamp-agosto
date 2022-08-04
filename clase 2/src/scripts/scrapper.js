@@ -1,19 +1,19 @@
-import {$} from "../utils/selector"
-import {profileSelectors} from "../utils/selector"
+import {$,$$} from '../utils/selectors'
+import {profileSelectors} from '../config/scrapperSelectors'
 
-const name = $('h1').textContent
-
-const experienceElements = $$((profileSelectors.experiencesElements))
+const name =$(profileSelectors.name).textContent
+const experienceElements = $$('profileSelectors.experienceElements')
 const experienceTitles = []
 
-experiencesElements.forEach((experienceListItem)=>{
-	const experienceTitle = $('span[aria-hidden]',element)
-	experienceTitles.push($element)
-})
+experienceElements.forEach(
+	(experienceListItem)=>{
+		const experienceTitleElement = $('span[aria-hidden]', experienceListItem)
+		experienceTitles.push(experienceTitleElement.textContent)
+	}
+	)
 
 const profile = {
 	name,
 	experienceTitles
 }
-
 console.table(profile)
