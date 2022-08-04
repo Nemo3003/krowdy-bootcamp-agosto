@@ -1,14 +1,16 @@
 {
-  "name": "krowdy-bootcamp-agosto",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/Nemo3003/krowdy-bootcamp-agosto.git",
-  "author": "Nemo3003 <ulimarian2000@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "eslint": "^8.21.0"
-  },
   "devDependencies": {
     "esbuild": "^0.14.53"
+  },
+  "name": "krowdy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node config/esbuild.js"
+  },
+  "dependencies": {
+    "undefined": "^0.1.0"
   }
 }
