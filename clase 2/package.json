@@ -1,0 +1,14 @@
+{
+  "name": "krowdy-bootcamp-agosto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nemo3003/krowdy-bootcamp-agosto.git",
+  "author": "Nemo3003 <ulimarian2000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.21.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.53"
+  }
+}

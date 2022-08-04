@@ -1,2 +1,1 @@
-chrome.action.onClicked.addListener(()=>console.log('Hello World')
-);
+chrome.action.onClicked.addListener(()=>console.log('Hello World'));
