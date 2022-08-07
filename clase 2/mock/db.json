@@ -1,0 +1,414 @@
+{
+  "profiles": [
+    {
+      "urlsCandidates": [
+        {
+          "raw": "https://www.linkedin.com/in/tomijais?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACzaU84BqEbtYR5XqAbWAKJHj_NJMkU5Rpo",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACzaU84BqEbtYR5XqAbWAKJHj_NJMkU5Rpo"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/lnmarquez19?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA5k2v8BDcXWhZ_Kii1Dgbiwfyzi57pIejU",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAA5k2v8BDcXWhZ_Kii1Dgbiwfyzi57pIejU"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/derek-cabrera-fullstack?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADJrqUgBNo9Bys_rIvI6-WDJKsGQCtEqinI",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADJrqUgBNo9Bys_rIvI6-WDJKsGQCtEqinI"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/francomagrini?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABstg1MBS23oSORrLd3CPbMB0M6gb8Xl9CQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABstg1MBS23oSORrLd3CPbMB0M6gb8Xl9CQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/melina-zellweger-?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB-4YXMBykAOWv3hVMJKBk8Xxh72bJWTGK8",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB-4YXMBykAOWv3hVMJKBk8Xxh72bJWTGK8"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/juli%C3%A1n-alejandro-s%C3%A1nchez-80a681163?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACcTi0oBLb-nAq5L7LrQfZKpy_UmpZtrYpM",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACcTi0oBLb-nAq5L7LrQfZKpy_UmpZtrYpM"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/lunaesteban?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACF5BKgBQhhw9ObSIL8msOB99FoFDzGMQd0",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACF5BKgBQhhw9ObSIL8msOB99FoFDzGMQd0"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/tomascontreras-fsd?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACHpSnEBJGYx16avWlBDgbDi0p1I0_Tvno4",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACHpSnEBJGYx16avWlBDgbDi0p1I0_Tvno4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/rsmazzuccogiusseppin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABLCBD0B12wKQCf37NyqfWDtrPOjB4kuTiA",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABLCBD0B12wKQCf37NyqfWDtrPOjB4kuTiA"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/santiago-carrizo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACFeJjkBJSHZ2zu4CMyKCmtZnimE_h84oMQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACFeJjkBJSHZ2zu4CMyKCmtZnimE_h84oMQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/manuel-miglioranza-arg?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABEkga8BHmt8FOqZGv23OLkXxS9RXogi5r0",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABEkga8BHmt8FOqZGv23OLkXxS9RXogi5r0"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/diego-zaccara?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAoAMecBV2jd8I0BUO87Vcp5cdK5TA0n5dQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAAoAMecBV2jd8I0BUO87Vcp5cdK5TA0n5dQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/gino-colaiacovo-947156bb?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABl4_scBNlr4O4tCjbq4eEJS4RI8p8Y44as",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABl4_scBNlr4O4tCjbq4eEJS4RI8p8Y44as"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/diego-g%C3%A1ndara-8905b311b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB3PgCwBH2FoER1Rv-1WYbTvDRJeqDbNhx4",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB3PgCwBH2FoER1Rv-1WYbTvDRJeqDbNhx4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/esteban-canteros-4b7163198?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC5MCQsBagXMVVOD4JrAtVhMq0-wbtsRFoI",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC5MCQsBagXMVVOD4JrAtVhMq0-wbtsRFoI"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/jonathandyallo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC428IsB0RidtZpj_C1Gnqb_brfgTWDjO0M",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC428IsB0RidtZpj_C1Gnqb_brfgTWDjO0M"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/mauri-monaca?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACzoJLEBI6gwEGJrtdWWNjJySDXlvGAabug",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACzoJLEBI6gwEGJrtdWWNjJySDXlvGAabug"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/manuel-garcia-amaro?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACgfbRABw9vVSaYif9CSu32rd2wgd-gbvjw",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACgfbRABw9vVSaYif9CSu32rd2wgd-gbvjw"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/agustin-carnevale-1254a6140?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACI-gy0BT9tb47y2IEJCav5_NVi6AumoeBU",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACI-gy0BT9tb47y2IEJCav5_NVi6AumoeBU"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/leandro-l%C3%B3pez-catalini-9628b21a2?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC95jdoB2JoO0LFk1CuuJlR37Jnyd0W-w2w",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC95jdoB2JoO0LFk1CuuJlR37Jnyd0W-w2w"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/agustin-natalucci-5b1875208?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADTPPBUBNOac46Z93Mo_-9QNWo49UPSBKog",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADTPPBUBNOac46Z93Mo_-9QNWo49UPSBKog"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/gianfranco-mastogiovanni?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACp1i78BjpsUgtnFw7bhfB-QuwQtHt_FhiI",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACp1i78BjpsUgtnFw7bhfB-QuwQtHt_FhiI"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/facundo-rebord-07a74314a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACQPjJ4Bd8mG-3dQIkfE3YT9L4Zp8RZ3N9Y",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACQPjJ4Bd8mG-3dQIkfE3YT9L4Zp8RZ3N9Y"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/borisbam?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACxa7_wBYrHtLXp2gEoxDG19nC8Ih38OxqI",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACxa7_wBYrHtLXp2gEoxDG19nC8Ih38OxqI"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/sebastianciare?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADLh4gEBldwiX-4uoUGXN38YJDCkM2d_HdQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADLh4gEBldwiX-4uoUGXN38YJDCkM2d_HdQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/digarber?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADJshCwB0icyVDUxGiW54maeZ-yB0-xgsSk",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADJshCwB0icyVDUxGiW54maeZ-yB0-xgsSk"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/matias-gomez-paratcha?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACVgT40BLtd3Br7gEyUe7p9FBwBtcctRuKA",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACVgT40BLtd3Br7gEyUe7p9FBwBtcctRuKA"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/florgonzalez27?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABUtO0EBTDt6jjei9SUd97PBV-ze65Usc8E",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABUtO0EBTDt6jjei9SUd97PBV-ze65Usc8E"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/joaquinclaverie?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACF_nGcBEoN3KIEQGbElePgQcH6qmd3wCyQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACF_nGcBEoN3KIEQGbElePgQcH6qmd3wCyQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/alexis-allamano-06907018b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACyuZ1EBHEYcoTeCobCYSsuTLQrmtcSmcQI",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACyuZ1EBHEYcoTeCobCYSsuTLQrmtcSmcQI"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/alanjmrt94?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC9xWmMBmSavBEbXfXNmZzgm4cAS0P23fmQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC9xWmMBmSavBEbXfXNmZzgm4cAS0P23fmQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/mendietasergio?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACWagvMBN0Xfg3k0ZcETbtkDhS9XxyM9BVc",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACWagvMBN0Xfg3k0ZcETbtkDhS9XxyM9BVc"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/isaias-avalle-87104819a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC6i3tUBpWlBrQ21AA3owFZlV5FQ3Gs2eJ4",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC6i3tUBpWlBrQ21AA3owFZlV5FQ3Gs2eJ4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/alejandro-rusinoff-64114032?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAbIc5EBgIFQJ-CgFZfCRgUZq6sMnQ_5Wqk",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAAbIc5EBgIFQJ-CgFZfCRgUZq6sMnQ_5Wqk"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/daniel-mesu-92938871?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8u9zEBxmg7CZMtfXfWeqpGQ0BOSOE3cKg",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAA8u9zEBxmg7CZMtfXfWeqpGQ0BOSOE3cKg"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/javier-hern%C3%A1n-m-74111a158?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACW_pKEB6f-1Kml5nvofl2v9OC44NA0VYE4",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACW_pKEB6f-1Kml5nvofl2v9OC44NA0VYE4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/yannick-stevenin-08114811b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB2-NmEBWAsbSQ18YjPMoqqBWvKjtoL_6-o",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB2-NmEBWAsbSQ18YjPMoqqBWvKjtoL_6-o"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/danibarria?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACX8JpwBBfd7QfVMV6GwJaTDpasXBVeN09c",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACX8JpwBBfd7QfVMV6GwJaTDpasXBVeN09c"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/rocio-orlando?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACgstCgBbznGwZjJ6Auiuq_cTxFF_Whuppg",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACgstCgBbznGwZjJ6Auiuq_cTxFF_Whuppg"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/diegorarce?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABQC17MB9WW867kC8RSTilTgCfxDG17uEns",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABQC17MB9WW867kC8RSTilTgCfxDG17uEns"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/gcodes?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACUyGboB_TfKrvqOzBnEqUMwk5ihRZydw_E",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACUyGboB_TfKrvqOzBnEqUMwk5ihRZydw_E"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/rodrigo-bacigalupo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADa5aQABwsu11vjgVghk5bUCxI-h753O66A",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADa5aQABwsu11vjgVghk5bUCxI-h753O66A"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/rafael-cabrera-penayo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABb4a2ABL4FtJ8gFLqzMBW3NH3oFulaqg54",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABb4a2ABL4FtJ8gFLqzMBW3NH3oFulaqg54"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/daianaabal?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADNM9EsBu44onOYFi4Y5AmZGRiOh5Ns-oQk",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADNM9EsBu44onOYFi4Y5AmZGRiOh5Ns-oQk"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/matiasmonasterio?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACy3HZEBai3j90NJ9fqZFhzkdH968sV328Y",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACy3HZEBai3j90NJ9fqZFhzkdH968sV328Y"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/miguel-angel-mansilla-revoux-678883128?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB9z__wBKn2wqjFSptQuDSflPq34kUat0OU",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB9z__wBKn2wqjFSptQuDSflPq34kUat0OU"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/santiagodovalb?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACQ483EB7UgDUBLCCXt6eknPTm7eezW2wo4",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACQ483EB7UgDUBLCCXt6eknPTm7eezW2wo4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/maximilianorivadeneira?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADGI-U8BZ86zTTDoqrTvk607YF6KvzDHgiw",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADGI-U8BZ86zTTDoqrTvk607YF6KvzDHgiw"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/oz-rodriguez?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADYvxJMBx0-WK4_GOitrC1thuCgQsqDZX1Q",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADYvxJMBx0-WK4_GOitrC1thuCgQsqDZX1Q"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/diana-aguayo-unlam?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACVz6r0BIMMhKxjEYmcUMGsaYBE91EH7lyo",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACVz6r0BIMMhKxjEYmcUMGsaYBE91EH7lyo"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "urlsCandidates": [
+        {
+          "raw": "https://www.linkedin.com/in/tomijais?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACzaU84BqEbtYR5XqAbWAKJHj_NJMkU5Rpo",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACzaU84BqEbtYR5XqAbWAKJHj_NJMkU5Rpo"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/lnmarquez19?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA5k2v8BDcXWhZ_Kii1Dgbiwfyzi57pIejU",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAA5k2v8BDcXWhZ_Kii1Dgbiwfyzi57pIejU"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/derek-cabrera-fullstack?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADJrqUgBNo9Bys_rIvI6-WDJKsGQCtEqinI",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADJrqUgBNo9Bys_rIvI6-WDJKsGQCtEqinI"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/francomagrini?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABstg1MBS23oSORrLd3CPbMB0M6gb8Xl9CQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABstg1MBS23oSORrLd3CPbMB0M6gb8Xl9CQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/melina-zellweger-?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB-4YXMBykAOWv3hVMJKBk8Xxh72bJWTGK8",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB-4YXMBykAOWv3hVMJKBk8Xxh72bJWTGK8"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/juli%C3%A1n-alejandro-s%C3%A1nchez-80a681163?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACcTi0oBLb-nAq5L7LrQfZKpy_UmpZtrYpM",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACcTi0oBLb-nAq5L7LrQfZKpy_UmpZtrYpM"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/lunaesteban?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACF5BKgBQhhw9ObSIL8msOB99FoFDzGMQd0",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACF5BKgBQhhw9ObSIL8msOB99FoFDzGMQd0"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/tomascontreras-fsd?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACHpSnEBJGYx16avWlBDgbDi0p1I0_Tvno4",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACHpSnEBJGYx16avWlBDgbDi0p1I0_Tvno4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/rsmazzuccogiusseppin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABLCBD0B12wKQCf37NyqfWDtrPOjB4kuTiA",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABLCBD0B12wKQCf37NyqfWDtrPOjB4kuTiA"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/santiago-carrizo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACFeJjkBJSHZ2zu4CMyKCmtZnimE_h84oMQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACFeJjkBJSHZ2zu4CMyKCmtZnimE_h84oMQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/manuel-miglioranza-arg?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABEkga8BHmt8FOqZGv23OLkXxS9RXogi5r0",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABEkga8BHmt8FOqZGv23OLkXxS9RXogi5r0"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/diego-zaccara?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAoAMecBV2jd8I0BUO87Vcp5cdK5TA0n5dQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAAoAMecBV2jd8I0BUO87Vcp5cdK5TA0n5dQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/gino-colaiacovo-947156bb?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABl4_scBNlr4O4tCjbq4eEJS4RI8p8Y44as",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABl4_scBNlr4O4tCjbq4eEJS4RI8p8Y44as"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/diego-g%C3%A1ndara-8905b311b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB3PgCwBH2FoER1Rv-1WYbTvDRJeqDbNhx4",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB3PgCwBH2FoER1Rv-1WYbTvDRJeqDbNhx4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/esteban-canteros-4b7163198?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC5MCQsBagXMVVOD4JrAtVhMq0-wbtsRFoI",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC5MCQsBagXMVVOD4JrAtVhMq0-wbtsRFoI"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/jonathandyallo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC428IsB0RidtZpj_C1Gnqb_brfgTWDjO0M",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC428IsB0RidtZpj_C1Gnqb_brfgTWDjO0M"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/mauri-monaca?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACzoJLEBI6gwEGJrtdWWNjJySDXlvGAabug",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACzoJLEBI6gwEGJrtdWWNjJySDXlvGAabug"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/manuel-garcia-amaro?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACgfbRABw9vVSaYif9CSu32rd2wgd-gbvjw",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACgfbRABw9vVSaYif9CSu32rd2wgd-gbvjw"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/agustin-carnevale-1254a6140?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACI-gy0BT9tb47y2IEJCav5_NVi6AumoeBU",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACI-gy0BT9tb47y2IEJCav5_NVi6AumoeBU"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/leandro-l%C3%B3pez-catalini-9628b21a2?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC95jdoB2JoO0LFk1CuuJlR37Jnyd0W-w2w",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC95jdoB2JoO0LFk1CuuJlR37Jnyd0W-w2w"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/agustin-natalucci-5b1875208?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADTPPBUBNOac46Z93Mo_-9QNWo49UPSBKog",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADTPPBUBNOac46Z93Mo_-9QNWo49UPSBKog"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/gianfranco-mastogiovanni?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACp1i78BjpsUgtnFw7bhfB-QuwQtHt_FhiI",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACp1i78BjpsUgtnFw7bhfB-QuwQtHt_FhiI"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/facundo-rebord-07a74314a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACQPjJ4Bd8mG-3dQIkfE3YT9L4Zp8RZ3N9Y",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACQPjJ4Bd8mG-3dQIkfE3YT9L4Zp8RZ3N9Y"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/borisbam?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACxa7_wBYrHtLXp2gEoxDG19nC8Ih38OxqI",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACxa7_wBYrHtLXp2gEoxDG19nC8Ih38OxqI"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/sebastianciare?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADLh4gEBldwiX-4uoUGXN38YJDCkM2d_HdQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADLh4gEBldwiX-4uoUGXN38YJDCkM2d_HdQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/digarber?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADJshCwB0icyVDUxGiW54maeZ-yB0-xgsSk",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADJshCwB0icyVDUxGiW54maeZ-yB0-xgsSk"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/matias-gomez-paratcha?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACVgT40BLtd3Br7gEyUe7p9FBwBtcctRuKA",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACVgT40BLtd3Br7gEyUe7p9FBwBtcctRuKA"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/florgonzalez27?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABUtO0EBTDt6jjei9SUd97PBV-ze65Usc8E",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABUtO0EBTDt6jjei9SUd97PBV-ze65Usc8E"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/joaquinclaverie?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACF_nGcBEoN3KIEQGbElePgQcH6qmd3wCyQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACF_nGcBEoN3KIEQGbElePgQcH6qmd3wCyQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/alexis-allamano-06907018b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACyuZ1EBHEYcoTeCobCYSsuTLQrmtcSmcQI",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACyuZ1EBHEYcoTeCobCYSsuTLQrmtcSmcQI"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/alanjmrt94?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC9xWmMBmSavBEbXfXNmZzgm4cAS0P23fmQ",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC9xWmMBmSavBEbXfXNmZzgm4cAS0P23fmQ"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/mendietasergio?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACWagvMBN0Xfg3k0ZcETbtkDhS9XxyM9BVc",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACWagvMBN0Xfg3k0ZcETbtkDhS9XxyM9BVc"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/isaias-avalle-87104819a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC6i3tUBpWlBrQ21AA3owFZlV5FQ3Gs2eJ4",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAC6i3tUBpWlBrQ21AA3owFZlV5FQ3Gs2eJ4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/alejandro-rusinoff-64114032?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAbIc5EBgIFQJ-CgFZfCRgUZq6sMnQ_5Wqk",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAAbIc5EBgIFQJ-CgFZfCRgUZq6sMnQ_5Wqk"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/daniel-mesu-92938871?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8u9zEBxmg7CZMtfXfWeqpGQ0BOSOE3cKg",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAA8u9zEBxmg7CZMtfXfWeqpGQ0BOSOE3cKg"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/javier-hern%C3%A1n-m-74111a158?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACW_pKEB6f-1Kml5nvofl2v9OC44NA0VYE4",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACW_pKEB6f-1Kml5nvofl2v9OC44NA0VYE4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/yannick-stevenin-08114811b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB2-NmEBWAsbSQ18YjPMoqqBWvKjtoL_6-o",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB2-NmEBWAsbSQ18YjPMoqqBWvKjtoL_6-o"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/danibarria?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACX8JpwBBfd7QfVMV6GwJaTDpasXBVeN09c",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACX8JpwBBfd7QfVMV6GwJaTDpasXBVeN09c"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/rocio-orlando?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACgstCgBbznGwZjJ6Auiuq_cTxFF_Whuppg",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACgstCgBbznGwZjJ6Auiuq_cTxFF_Whuppg"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/diegorarce?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABQC17MB9WW867kC8RSTilTgCfxDG17uEns",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABQC17MB9WW867kC8RSTilTgCfxDG17uEns"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/gcodes?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACUyGboB_TfKrvqOzBnEqUMwk5ihRZydw_E",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACUyGboB_TfKrvqOzBnEqUMwk5ihRZydw_E"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/rodrigo-bacigalupo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADa5aQABwsu11vjgVghk5bUCxI-h753O66A",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADa5aQABwsu11vjgVghk5bUCxI-h753O66A"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/rafael-cabrera-penayo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABb4a2ABL4FtJ8gFLqzMBW3NH3oFulaqg54",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAABb4a2ABL4FtJ8gFLqzMBW3NH3oFulaqg54"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/daianaabal?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADNM9EsBu44onOYFi4Y5AmZGRiOh5Ns-oQk",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADNM9EsBu44onOYFi4Y5AmZGRiOh5Ns-oQk"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/matiasmonasterio?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACy3HZEBai3j90NJ9fqZFhzkdH968sV328Y",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACy3HZEBai3j90NJ9fqZFhzkdH968sV328Y"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/miguel-angel-mansilla-revoux-678883128?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB9z__wBKn2wqjFSptQuDSflPq34kUat0OU",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAAB9z__wBKn2wqjFSptQuDSflPq34kUat0OU"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/santiagodovalb?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACQ483EB7UgDUBLCCXt6eknPTm7eezW2wo4",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACQ483EB7UgDUBLCCXt6eknPTm7eezW2wo4"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/maximilianorivadeneira?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADGI-U8BZ86zTTDoqrTvk607YF6KvzDHgiw",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADGI-U8BZ86zTTDoqrTvk607YF6KvzDHgiw"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/oz-rodriguez?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADYvxJMBx0-WK4_GOitrC1thuCgQsqDZX1Q",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAADYvxJMBx0-WK4_GOitrC1thuCgQsqDZX1Q"
+        },
+        {
+          "raw": "https://www.linkedin.com/in/diana-aguayo-unlam?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACVz6r0BIMMhKxjEYmcUMGsaYBE91EH7lyo",
+          "profileVar": "urn%3Ali%3Afsd_profile%3AACoAACVz6r0BIMMhKxjEYmcUMGsaYBE91EH7lyo"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}

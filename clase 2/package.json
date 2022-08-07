@@ -5,7 +5,8 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "dev": "node config/esbuild.js"
+    "dev": "node config/esbuild.js",
+    "dbjson": "json-server --watch mock/db.json"
   },
   "devDependencies": {
     "esbuild": "^0.14.53",
@@ -14,8 +15,10 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
     "dayjs": "^1.11.4",
     "dexie": "^3.2.2",
+    "dotenv": "^16.0.1",
     "popjs": "^0.0.1",
     "schm": "^0.4.1"
   }
