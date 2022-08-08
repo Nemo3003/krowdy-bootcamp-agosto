@@ -1,5 +1,6 @@
 const pupeteer = require('puppeteer');
 const cheerio = require('cheerio');
+const puppeteer = require('puppeteer-extra')
 //to run it: node index.js
 
 (async ()=>{
@@ -30,7 +31,5 @@ const cheerio = require('cheerio');
 
 /*
 //HOW WE OBTAIN THE URL
-var str = encodeURIComponent('site:ar.linkedin.com/in/ AND "Moscow" AND "golang developer"');
-var googleurl = 'https://google.com/search?q=' + str;
-console.log(googleurl)*/
+*/
 
