@@ -1,6 +1,6 @@
 const pupeteer = require('puppeteer');
 const cheerio = require('cheerio');
-const puppeteer = require('puppeteer-extra')
+//const puppeteer = require('puppeteer-extra')
 //to run it: node index.js
 
 (async ()=>{
@@ -8,9 +8,9 @@ const puppeteer = require('puppeteer-extra')
 
     const page = await browser.newPage();
 
-    await page.goto("https://www.amazon.com/Presto-22-inch-Electric-Griddle-Removable/dp/B005FYF3OY/");
+    await page.goto("https://www.linkedin.com/in/ulises-mariano-melgarejo/");
 
-    await page.screenshot({ path: './assets/image2.png' });
+    await page.screenshot({ path: '.src/assets/image23.png' });
 
     const pageData = await page.evaluate(()=>{
         return {
@@ -23,7 +23,7 @@ const puppeteer = require('puppeteer-extra')
 
     const $ = cheerio.load(pageData.html);
 
-    const element = $("#productTitle")
+    const element = $(".text-heading-xlarge inline t-24 v-align-middle break-words")
     console.log(element.text());
 
     await browser.close();
