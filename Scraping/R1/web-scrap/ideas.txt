@@ -1,0 +1,2 @@
+$('.entity-result__item').textContent.trim()
+$('.mb1').textContent
