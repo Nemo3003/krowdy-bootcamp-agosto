@@ -1,0 +1,34 @@
+
+//**********************************DEPENDENCIAS***************************************//
+Una TWELVE-FACTOR App no depende de paquetes instalados en el sistema. Como sucede con perl o ruby que su gestion de 
+paquetes pueda ser instalado en el sistema.
+Usa herramientas de aislamiento de dependencias durante la ejecución para asegurar que las dependencias, para que estas
+dependencias no afecten al resto del sistema.
+
+Bundler tiene un formato para declarar dependencias y otro para aislarlo. Emplear ambas es importante para cumplir las
+condiciones de "twelve-factor"
+
+Esto simplifica la configuracion para los nuevos desarrolladores de la app.
+
+//*********************************CONFIGURACION*************************************//
+Esto es lo unico que puede variar entre despliegues (preproduccion, produccion, desarrollo)
+NO GUARDES CONFIGURACIONES COMO CONSTANTES EN EL CODIGO
+Se requiere una separacion entre la configuracion y el resto del codigo.
+
+Las app twelve-factor almacenan las configuraciones en variables de entorno (env)
+Estas configuraciones pueden ser modificadas sin modificar el codigo.
+Nunca se agrupan juntas como "entornos", pero en su lugar se gestionan independientemente para cada despliegue. 
+La ESCALABILIDAD es beneficiada aqui.
+
+//******************************BACKING SERVICES*************************************//
+Es cualquier backing service es cualquier recurso que pueda ser consumida por la aplicacion a traves de la red 
+habitualmente. Ejemplos son: en bases de datos (MySQL) o mensajerias como RabbitMQ, incluso los sistemas de cache
+como Memcached.
+
+Tradicionalmente las Backing Services han sido gestionadas por los mismos administradores de sistemas. 
+
+Una app twelve-factor no hace distincion entre servicios locales y de terceros. A la app no le interesa, esta conectada
+
+Lo bueno es que el codigo no tiene que ser modificado para que funcione.
+
+Cada backing service es un recurso. Estos se pueden conectar y desconectar a voluntad. 
