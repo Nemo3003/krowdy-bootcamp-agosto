@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Linkedin Master Scrapper",
+    "description": "A scraper to feel like you ain't doing nothing criminal",
+    "version": "1.0.0",
+    "action": {
+        "default_title" : "Click on me to start your criminal life"
+    },
+    "background": {
+      "service_worker": "sw.js",
+      "type": "module"
+    },
+    "permissions": [
+        "activeTab", "notifications", "scripting"
+    ]
+  }
