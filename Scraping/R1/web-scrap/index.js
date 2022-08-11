@@ -8,9 +8,9 @@ const cheerio = require('cheerio');
 
     const page = await browser.newPage();
 
-    await page.goto("https://www.linkedin.com/in/ulises-mariano-melgarejo/");
+    await page.goto("https://www.linkedin.com/in/clifford-g%C3%A1rate-5260b01b6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADI0He4BN0ea9tAfmMcrNlTSEsdmAAAKkro");
 
-    await page.screenshot({ path: '.src/assets/image23.png' });
+    await page.screenshot({ path: './src/assets/image23.png' });
 
     const pageData = await page.evaluate(()=>{
         return {

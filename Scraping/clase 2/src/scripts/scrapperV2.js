@@ -7,7 +7,7 @@ import AxiosService from '../service/axiosService';
 async function scrap() {
   const data = await AxiosService
     .getProfileInfo(mockResponseProfiles[0].profileVar);
-  console.log(data);
+ // console.log(data);
 }
 
 scrap();
