@@ -10,8 +10,10 @@ chrome.action.onClicked.addListener((tab) => {
 })
 
 chrome.runtime.onMessage.addListener((message)=> {
+    console.log(message.id);
     chrome.notifications.create({
         title: "Stalking", 
+        
         message: `You've done your stalking:${message.id}`, iconUrl:message.iconUrl, type: "basic"});
 
    /* chrome.tabs.create({url: "https://www.linkedin.com/feed/"});
@@ -20,4 +22,8 @@ chrome.runtime.onMessage.addListener((message)=> {
         chrome.tabs.remove(tabs[0].id);
     }
     )*/
+    //create and store the data in a json
+    
+
+
 })
