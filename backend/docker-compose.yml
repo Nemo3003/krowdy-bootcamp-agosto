@@ -1,0 +1,11 @@
+version: '5.0'
+
+services:
+  mongo:
+    image: mongo
+    restart: always
+    ports:
+      - 30018:30018
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: nemo3003
+      MONGO_INITDB_ROOT_PASSWORD: um302
