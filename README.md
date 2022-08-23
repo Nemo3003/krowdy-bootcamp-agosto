@@ -2,4 +2,5 @@
 - SCRAPING
    - multiple versions
 - BACKEND
+   - Video manager 
 - FRONTEND
