@@ -36,5 +36,5 @@ NodeJs
 // configuraciones -> disco
 // configuraciones -> binarios
 // configuraciones -> referencias de archivos
-#DISCLAIMER
+# DISCLAIMER
 ESTA APP NO SE ENCUENTRA TERMINADA, PROBABLEMENTE NO INICIE AL INTENTAR ARRANCARLA. 
