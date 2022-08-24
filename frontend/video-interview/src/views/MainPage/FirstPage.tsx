@@ -1,17 +1,33 @@
 import React, {useContext} from 'react';
-import QuestionCard from '../../components/QuestionCard/QuestionCard';
-import s from './MainView.module.css';
-import { AppContext } from '../../context/AppContext';
+import {QuestionCard} from '../../components/QuestionCard/QuestionCard';
+
 export const FirstPage  = () => {
-    const [state, dispatch] = useContext(AppContext);
+
+    const questions = [
+        {
+            id: 1,
+            title: 'First question',
+            content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul',
+        },
+        {
+            id: 2,
+            title: 'Second question',
+            content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul'
+        }
+    ]
     return (
-        <section className={s.mainview_container}>
-            <h1 className={s.main_title}>Video Cuestionario</h1>
-            <p className={s.instructions}>Clickea en las tarjetas para ir respondiendo las preguntas, los videos tienen una duración máxima de <span>2 minutos</span>, cuando termines de responder todas podrás enviar tus respuestas a nuestra base de datos.</p>
-            <section className={s.card_container}>
+        <section>
+            <h1 >Video Cuestionario</h1>
+            <p >Tendras dos minutos para responder cada una de las siguientes preguntas. Suerte!</p>
+            <section>
                 {
-                    state.questions.map(question => {
-                        return <QuestionCard key={`${question.id} card`} dispatch={dispatch} question={question}/>;
+                    questions.map(question => {
+                        return (
+                            <div>
+                            <h1>{question.title}</h1>
+                            <p>{question.content}</p>
+                            </div>
+                        )
                     })
                 }
             </section>
