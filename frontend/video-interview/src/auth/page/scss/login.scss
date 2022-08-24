@@ -1,0 +1,160 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+$bg: #616161;
+$text-light: #fafafa;
+$text: #212121;
+$placeholder: #999;
+$panel-bg: #fff;
+$shadow-dark: rgba(0, 0, 0, .65);
+$button: #b3e5fc;
+$button-hover: #4fc3f7;
+$button-active: #03a9f4;
+
+//MIXINS
+@mixin transition($time) {
+    -webkit-transition: all $time;
+    transition: all $time;
+}
+
+body {
+    background: $bg;
+    color: $text-light;
+    font-family: 'Poppins', Helvetica, Arial, Sans-Serif;
+    text-align: center;
+}
+
+a {
+    @include transition(.4s);
+    color: $button-active;
+    text-decoration: none;
+
+    &:hover {
+        color: $button-hover;
+        font-weight: bold;
+    }
+}
+
+.panel {
+    @include transition(.7s);
+    background: $panel-bg;
+    border-radius: 5px;
+    box-shadow: 0 5px 20px $shadow-dark;
+    color: $text;
+    height: 300px;
+    left: 0;
+    margin: 0 auto 150px;
+    overflow: hidden;
+    padding-top: 30px;
+    position: relative;
+    right: 0;
+    top: 50px;
+    width: 400px;
+    z-index: 200;
+
+    button {
+        @include transition(.7s);
+        background: $button;
+        border: 0;
+        border-radius: 6px;
+        color: $text;
+        cursor: pointer;
+        display: block;
+        font-size: 1.5em;
+        font-weight: 300;
+        margin: 20px auto;
+        padding: 10px;
+        width: 330px;
+
+        &:active {
+            background: $button-active;
+            color: $text;
+        }
+
+        &:hover {
+            @include transition(.55s);
+            background: $button-hover;
+            box-shadow: 0 2px 8px $shadow-dark;
+            color: $panel-bg;
+            text-shadow: 0 0 1px $shadow-dark;
+        }
+
+    }
+
+    &:hover {
+        @include transition(.7s);
+        border-radius: 35px 35px 35px 5px;
+        box-shadow: 0 2px 5px $shadow-dark;
+    }
+
+}
+
+.panel-group {
+    margin-bottom: 35px;
+    margin-left: 40px;
+    position: relative;
+}
+
+.input {
+    border: 0;
+    border-bottom: 1px solid $text;
+    display: block;
+    font-size: 1em;
+    padding: 10px 10px 10px 5px;
+    width: 300px;
+
+    &:focus {
+        outline: 0;
+    }
+}
+
+
+label {
+    @include transition(.2s);
+    color: $placeholder;
+    font-size: 14px;
+    font-weight: normal;
+    left: 5px;
+    pointer-events: none;
+    position: absolute;
+    top: 10px;
+}
+
+//animate label when input is in focus
+.input:focus ~ label,
+.input:valid ~ label {
+    color: $button-hover;
+    font-size: .75em;
+    font-weight: bold;
+    top: -15px;
+}
+
+//animate bottom border when input is in focus*/
+.border {
+    display: block;
+    position: relative;
+    width: 315px;
+}
+
+.border::before,
+.border::after {
+    @include transition(.5s);
+    background: $button-active;
+    bottom: 1px;
+    content: '';
+    height: 2px;
+    position: absolute;
+    width: 0;
+}
+
+.border::before {
+    left: 50%;
+}
+
+.border::after {
+    right: 50%;
+}
+
+//border width when clicked*/
+.input:focus ~ .border::before,
+.input:focus ~ .border::after {
+    width: 50%;
+}

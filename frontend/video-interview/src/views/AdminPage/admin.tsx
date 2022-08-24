@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-export const admin = () => {
+export const Admin = () => {
     const [question, setQuestion] = useState()
 
     useEffect(() => {

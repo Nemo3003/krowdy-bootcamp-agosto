@@ -23,7 +23,7 @@ export const FirstPage  = () => {
                 {
                     questions.map(question => {
                         return (
-                            <div>
+                            <div key={question.id * 254}>
                             <h1>{question.title}</h1>
                             <p>{question.content}</p>
                             </div>
