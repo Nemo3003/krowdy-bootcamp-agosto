@@ -1,0 +1,9 @@
+h1.title-videos {
+    text-align: center;
+}
+
+div.videos__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 15rem;
+}

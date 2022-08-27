@@ -1,27 +1,15 @@
-import {useState} from 'react'
-
 const questions = [
-    { id: 1, question: '¿Qué te motivo a estudiar programación?' },
-    { id: 2, question: '¿Qué hacías antes de estudiar programación?' },
+    { id: 1, question: '¿Qué es lo que mas te gusta de ti mismo?' },
+    { id: 2, question: '¿Como te definirias?' },
     { id: 3, question: '¿Tuviste alguna experiencia laboral previa?' },
-    { id: 4, question: '¿Cual fue tu mayor reto en un proyecto?' }
+    { id: 4, question: '¿Como resolverias un problema complejo?' }
 ]
 
 export const getQuestions = (id:any) => {
-    const [isLoading, setLoading] = useState(false);
-
-
     return new Promise((resolve) => {
-        setLoading(true)
-        {
-            isLoading ? <p>loading</p>: null
-        }
-
         setTimeout(() => {
-            setLoading(false)
-            const queryAsked = id ? questions.find(element => element.id == id) : questions
-            resolve(queryAsked)
-        }, 350)
-        
+            const queryAsk = id ? questions.find(element => element.id == id) : questions
+            resolve(queryAsk)
+        }, 500)
     })
 }
