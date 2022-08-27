@@ -9,8 +9,8 @@ declare global {
   }
 
 export const DetailedQuery = ({ videos }:any) => {
-    let mediaRecorder:any = useRef()
-    let recBlob:any = useRef()
+    let mediaRecorder:any = useRef(null)
+    let recordedBlob:any = useRef(null)
     const audio = useRef([])
     const recVideo:any = document.querySelector('video#recorded');
     const recButton:any = document.querySelector('button#record');
@@ -27,20 +27,20 @@ export const DetailedQuery = ({ videos }:any) => {
     }
 
     const handlePlay=()=> {
-        const BlobyBuffer = new Blob(recBlob);
-        recVideo.src = "";
-        recVideo.srcObject = "";
-        recVideo.src = window.URL.createObjectURL(BlobyBuffer);
+        const superBuffer = new Blob(recordedBlob);
+        recVideo.src;
+        recVideo.srcObject;
+        recVideo.src = window.URL.createObjectURL(superBuffer);
         recVideo.controls = true;
         recVideo.play();
         Video.style.display = 'none'
         recVideo.style.display = 'block'
     }
 
-    const handleDataAvailable=(event:any)=> { if (event.data && event.data.size > 0) recBlob.push(event.data);}
+    const handleDataAvailable=(event:any)=> { if (event.data && event.data.size > 0) recordedBlob.push(event.data);}
 
     const startRecording=()=> {
-        recBlob = [];
+        recordedBlob = [];
         try {
             mediaRecorder = new MediaRecorder(window.stream);
         } catch (e) {
@@ -48,7 +48,7 @@ export const DetailedQuery = ({ videos }:any) => {
             return;
         }
         recButton.textContent = 'Stop Recording';
-        mediaRecorder.onstop = (event:any) => localStorage.setItem('user', JSON.stringify(recBlob))
+        mediaRecorder.onstop = (event:any) => localStorage.setItem('user', JSON.stringify(recordedBlob))
         
         mediaRecorder.ondataavailable = handleDataAvailable;
         mediaRecorder.start();
@@ -56,8 +56,7 @@ export const DetailedQuery = ({ videos }:any) => {
 
     const stopRecording=()=> mediaRecorder.stop()
 
-    const handleSuccess=(stream:any)=> {window.stream = stream;Video.srcObject = stream;
-    }
+    const handleSuccess=(stream:any)=> {window.stream = stream;recVideo.srcObject = stream;}
 
     useEffect(() => {
         async function init() {

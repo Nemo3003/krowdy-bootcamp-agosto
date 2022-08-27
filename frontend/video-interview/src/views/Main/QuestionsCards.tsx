@@ -1,9 +1,11 @@
 import { Link } from 'react-router-dom'
 import {ButtonPlay} from '../../helpers/Buttons'
+import "../../styles/styles.css"
+
 
 export const QuestionsCards = ({ vid }:any) => {
     return (
-        <div className="cards__container">
+        <div className="cards-container">
             <div className="question-card__container">
                 <div className="question-video__card">
                     <div className='color-video'>
