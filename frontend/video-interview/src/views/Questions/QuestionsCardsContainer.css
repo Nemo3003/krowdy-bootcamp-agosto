@@ -14,3 +14,6 @@ div.videos__container {
 .cards-container{
     background-color: rgb(183, 199, 155);
 }
+button{
+    cursor: pointer;
+}

@@ -1,6 +1,7 @@
-import { useEffect, useRef } from 'react';
+import { useContext, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom'
 import {ButtonLeft} from '../../helpers/Buttons';
+import {AuthContext} from '../../components/auth/context/AuthContext'
 
 declare global {
     interface Window {
@@ -74,11 +75,12 @@ export const DetailedQuery = ({ videos }:any) => {
         }
         init();
     })
-
+    const { user, logout } = useContext(AuthContext);
     return (
         <div className='detail__container' id="container">
+            
             <div className='detail-back'>
-                <Link to={'/'}>
+                <Link to={'/home'}>
                     <p><ButtonLeft /> Get Back</p>
                 </Link>
             </div>
