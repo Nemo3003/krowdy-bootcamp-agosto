@@ -6,7 +6,10 @@ const questions = [
 ]
 
 export const getQuestions = (id:any) => {
+
+    
     return new Promise((resolve) => {
+
         setTimeout(() => {
             const queryAsk = id ? questions.find(element => element.id == id) : questions
             resolve(queryAsk)
