@@ -4,3 +4,6 @@
 - BACKEND
    - Video manager 
 - FRONTEND
+   - Video Interview
+- DESPLIEGUE
+   - NODEJS App
