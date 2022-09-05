@@ -1,7 +1,7 @@
 const express = require('express')
 const mongoose = require('mongoose')
-
-const PORT = 8085
+//docker run -p 8080:8081 --name despliegue_app_1 -t nemo3003/despliegue_app_1
+const PORT = 8081
 const HOST = 'localhost'
 const app = express()
 mongoose.connect('mongodb://localhost:27017')
