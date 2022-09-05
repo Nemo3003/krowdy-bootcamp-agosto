@@ -11,3 +11,13 @@ COPY . .
 EXPOSE 8081
 
 CMD [ "node", "index.js" ]
+
+FROM mysql
+
+ADD mysqlcode.sh /docker-entrypoint-initdb.d/mysql.sh
+
+ADD db.sql /src/db.sql
+
+RUN chmod -R 775 /docker-entrypoint-initdb.d
+
+ENV MYSQL_ROOT_PASSWORD 12345
