@@ -6,4 +6,4 @@
 - FRONTEND
    - Video Interview
 - DESPLIEGUE
-   - NODEJS App
+   - NODEJS App.
